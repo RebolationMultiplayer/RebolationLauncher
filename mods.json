@@ -1,4 +1,10 @@
 {
-  "curseFiles": [],
+  "curseFiles": [
+    {
+      // Advanced Netherite
+      "projectID": 495336,
+      "fileID": 4438333
+    }
+  ],
   "mods": []
 }
