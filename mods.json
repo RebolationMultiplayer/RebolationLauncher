@@ -1,11 +1,4 @@
 {
   "curseFiles": [],
-  "mods": [
-    {
-      "name": "AdvancedNetherite",
-      "downloadURL": "https://raw.githubusercontent.com/RebolationMultiplayer/RebolationLauncher/main/mods/advancednetherite-1.14.7-1.19.2.jar",
-      "sha1": "a82688ca1cc1d856321d4da1999ddfcba18fa44f",
-      "size": "410656"
-    }
-  ]
+  "mods": []
 }
